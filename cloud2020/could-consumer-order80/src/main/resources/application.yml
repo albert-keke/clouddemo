@@ -1,0 +1,6 @@
+server:
+  port: 80
+
+spring:
+  jackson:
+    property-naming-strategy: LOWER_CAMEL_CASE
