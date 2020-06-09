@@ -5,8 +5,10 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @auther cyq
- * @create 22:52 2020/6/7
+ * @description: <公用返回结果对象>
+ *
+ * @auther: cyq
+ * @create: 22:21 2020/6/8
  */
 @Data
 @AllArgsConstructor

@@ -7,8 +7,10 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * @auther cyq
- * @create 22:52 2020/6/7
+ * @description: <payment>
+ *
+ * @auther: cyq
+ * @create: 22:22 2020/6/8
  */
 @Data
 @AllArgsConstructor
